@@ -65,7 +65,8 @@ This project provides a tool for renaming files in a specific format required by
 
 ## Notes
 
->[TIP] Ensure that the `tkinter` library is installed and properly configured on your system.
+> [!TIP] 
+> Ensure that the `tkinter` library is installed and properly configured on your system.
 
 ## License
 
