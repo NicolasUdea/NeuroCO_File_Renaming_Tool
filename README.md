@@ -1,8 +1,10 @@
 # Codificador
 
 This project provides a tool for renaming files in a specific format required by NeuroCO and GRUNECO. The tool includes a graphical user interface (GUI) for selecting folders and specifying parameters, as well as generating test files for different scenarios.
+
 > [!WARNING]
 > The script does not account for tasks performed in a different order than pre-established. This feature will be added later.
+
 ## Features
 
 - Rename video and sensor files based on participant group, number, visit, and task.
@@ -26,7 +28,8 @@ This project provides a tool for renaming files in a specific format required by
 2. (Optional) Create a virtual environment:
     ```sh
     python -m venv .venv
-    source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
+    .venv\Scripts\activate  # On Windows
+    # On macOS/Linux use: source .venv/bin/activate
     ```
 
 3. Install required packages:
