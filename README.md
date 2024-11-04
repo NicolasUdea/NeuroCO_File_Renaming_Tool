@@ -32,11 +32,6 @@ This project provides a tool for renaming files in a specific format required by
     # On macOS/Linux use: source .venv/bin/activate
     ```
 
-3. Install required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Run the `codificador.py` script to open the file renaming tool:
