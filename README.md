@@ -65,8 +65,11 @@ This project provides a tool for renaming files in a specific format required by
 
 ## Notes
 
-> [!TIP] 
+> [!TIP]
 > Ensure that the `tkinter` library is installed and properly configured on your system.
+
+> [!WARNING]
+> The script does not account for tasks performed in a different order than pre-established. This feature will be added later.
 
 ## License
 
