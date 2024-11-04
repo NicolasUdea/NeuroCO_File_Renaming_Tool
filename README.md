@@ -1,7 +1,8 @@
 # Codificador
 
 This project provides a tool for renaming files in a specific format required by NeuroCO and GRUNECO. The tool includes a graphical user interface (GUI) for selecting folders and specifying parameters, as well as generating test files for different scenarios.
-
+> [!WARNING]
+> The script does not account for tasks performed in a different order than pre-established. This feature will be added later.
 ## Features
 
 - Rename video and sensor files based on participant group, number, visit, and task.
@@ -67,9 +68,6 @@ This project provides a tool for renaming files in a specific format required by
 
 > [!TIP]
 > Ensure that the `tkinter` library is installed and properly configured on your system.
-
-> [!WARNING]
-> The script does not account for tasks performed in a different order than pre-established. This feature will be added later.
 
 ## License
 
